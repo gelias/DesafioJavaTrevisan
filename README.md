@@ -1,4 +1,0 @@
-DesafioJavaTrevisan
-===================
-
-DesafioJava - Trevisan
